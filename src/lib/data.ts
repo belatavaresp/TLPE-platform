@@ -14,6 +14,7 @@ export const teachersData = [
     subjects: ["Math", "Geometry"],
     classes: ["1B", "2A", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
   },
   {
     id: 2,
@@ -26,6 +27,8 @@ export const teachersData = [
     subjects: ["Physics", "Chemistry"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 3,
@@ -38,6 +41,8 @@ export const teachersData = [
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 4,
@@ -50,6 +55,8 @@ export const teachersData = [
     subjects: ["History"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 5,
@@ -62,6 +69,8 @@ export const teachersData = [
     subjects: ["Music", "History"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 6,
@@ -74,6 +83,8 @@ export const teachersData = [
     subjects: ["Physics"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 7,
@@ -86,6 +97,8 @@ export const teachersData = [
     subjects: ["English", "Spanish"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 8,
@@ -98,6 +111,8 @@ export const teachersData = [
     subjects: ["Math", "Geometry"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 9,
@@ -110,6 +125,8 @@ export const teachersData = [
     subjects: ["Literature", "English"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
   {
     id: 10,
@@ -122,6 +139,8 @@ export const teachersData = [
     subjects: ["Biology"],
     classes: ["5A", "4B", "3C"],
     address: "123 Main St, Anytown, USA",
+    tipo: "Professor",
+
   },
 ];
 
